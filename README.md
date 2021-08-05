@@ -33,6 +33,11 @@
 <br />
 <br />
 
+### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
 [website]: https://themagicofcinema.com/
 [twitter]: https://twitter.com/renatoavcrial
 [youtube]: https://www.youtube.com/channel/UC_T7twU3uSTaDC_movQE95Q
