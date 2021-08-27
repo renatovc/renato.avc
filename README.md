@@ -34,15 +34,6 @@
 <br />
 <br />
 
-
----
-### 📺 Latest YouTube Videos
-<!-- YOUTUBE:START -->
-- [Taryn Jayne Glass Blowing](https://www.youtube.com/watch?v=VUHd51U5NhM)
-- [OMO Promo](https://www.youtube.com/watch?v=AV2nbCQSXTo)
-<!-- YOUTUBE:END -->
----
-
 ---
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
