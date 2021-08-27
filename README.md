@@ -35,12 +35,17 @@
 <br />
 
 ---
+### 📺 Latest YouTube Videos
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+---
+
+---
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 ---
 
----
 <img align="left" alt="r3mpl4y's Github Stats" src="https://github-readme-stats.vercel.app/api?username=r3mpl4y&show_icon=true&theme=blue-green&hide_border=true"/>
 
 
