@@ -58,4 +58,4 @@
 [twitter]: https://twitter.com/renatoavcrial
 [youtube]: https://www.youtube.com/channel/UC_T7twU3uSTaDC_movQE95Q
 [instagram]: https://www.instagram.com/renato.avc/
-[linkedin]: https://www.linkedin.com/in/themagicofcinema/
+[linkedin]: https://www.linkedin.com/in/renavc/
