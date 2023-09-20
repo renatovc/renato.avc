@@ -2,10 +2,6 @@
 
 ## I'm a Developer and Student!!
 
-- 🌱 I’m currently learning everything
-- 👯 I’m looking to collaborate with other creators
-- ⚡ Fun fact: I love listening to music
-
 ### Connect with me:
 
 [<img align="left" alt="Web Page" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -37,21 +33,7 @@
 <br />
 <br />
 
----
-### 📺 Latest YouTube Videos
-<!-- YOUTUBE:START -->
-- [Taryn Jayne Glass Blowing](https://www.youtube.com/watch?v=VUHd51U5NhM)
-- [OMO Promo](https://www.youtube.com/watch?v=AV2nbCQSXTo)
-<!-- YOUTUBE:END -->
----
-
----
-### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
----
-
-<img align="left" alt="r3mpl4y's Github Stats" src="https://github-readme-stats.vercel.app/api?username=r3mpl4y&show_icon=true&theme=blue-green&hide_border=true"/>
+<img align="left" alt="renatovc Github Stats" src="https://github-readme-stats.vercel.app/api?username=renatovc&show_icon=true&theme=blue-green&hide_border=true"/>
 
 
 [website]: https://themagicofcinema.com/
